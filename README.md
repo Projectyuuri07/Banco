@@ -20,4 +20,4 @@ Atividade realizada em grupo através da linguagem de programação Python.
 
 ## Autores
 
-- [@Yuri Azevedo](https://github.com/Projectyuuri07) - [@Vinicius](https://github.com/s4muraii) - [@Alexandre](https://github.com/alemes7) - [@Kauê](https://github.com/kauex55) - [@Leonardo](https://github.com/leonardo25)
+- [@Yuri Azevedo](https://github.com/Projectyuuri07) - [@Vinicius](https://github.com/s4muraii) - [@Alexandre](https://github.com/alemes7) - [@Kauê](https://github.com/kauex55) - [@Leonardo](https://github.com/leonardoo25)
